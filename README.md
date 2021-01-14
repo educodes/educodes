@@ -3,7 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoperezs/)   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/educodes)
 
 
-------------
 
 
 ## About Me 💻 
@@ -14,7 +13,6 @@ Software Programming, Front-End Developer. Currently training with freeCodeCamp 
 - 🌱 Currently learning more about React, Node Js, Sass.
 
 
-------------
 
 
 ## 📌 Languages and Tools
